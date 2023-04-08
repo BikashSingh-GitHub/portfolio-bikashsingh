@@ -11,7 +11,7 @@ function HomePage() {
 
   return (
 
-<div class="bg-gradient-to-r from-green-900 via-green-600 to-green-400 h-screen ">
+<div class="bg-gradient-to-r from-green-900 via-green-600 to-green-400 auto-h-screen ">
 
 <header className="bg-gradient-to-l from-green-400 via-green-300 to-green-300">
   <nav className="container mx-auto px-3 py-3 flex flex-wrap justify-between items-center">
@@ -23,8 +23,12 @@ function HomePage() {
       <a className="py-2 px-4 text-gray-800 font-bold hover:text-blue-100 text-lg mr-4" href="#">Projects</a>
       <a className="py-2 px-4 text-gray-800 font-bold hover:text-blue-100 text-lg mr-4" href="#">About</a>
       <Link to ="/ContactUs" className="py-2 px-4 text-gray-800 font-bold hover:text-blue-100 text-lg  mr-4" href="#">Contact</Link>
-      <div className="flex items-center">
-        <div className="ml-1">
+    
+    </div>
+  
+
+    <div className="flex  items-center">
+        <div className="ml-1 ">
           <a className=" hover:text-blue-100" href="https://www.linkedin.com/in/bikash-singh-410204aa/">
             <FaLinkedin size={34} />
           </a>
@@ -46,8 +50,10 @@ function HomePage() {
         
         </div>
       </div>
-    </div>
+  
   </nav>
+
+
 </header>
 
       <main className="container mx-auto mt-10 px-6">
@@ -61,7 +67,7 @@ function HomePage() {
         transition={{ duration: 0.6 }}
         className="text-4xl md:text-5xl lg:text-6xl font-bold text-white"
       >
-        Hi, I'm Bikash Singh
+      <h1 className="text-green-400 inline-block">Hi, I'm</h1> Bikash Singh
       </motion.h1>
       <motion.p
         ref={ref}
@@ -82,7 +88,7 @@ function HomePage() {
       >
         <motion.a
           whileHover={{ scale: 1.05 }}
-          className="bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded-md md:mr-4 mb-4 md:mb-0"
+          className="bg-green-500 hover:bg-green-700 text-white py-2 px-4 rounded-md md:mr-4 mb-4 md:mb-0"
           href="https://github.com/BikashSingh-GitHub?tab=repositories"
         >
           View My Work

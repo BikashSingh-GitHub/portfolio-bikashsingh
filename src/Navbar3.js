@@ -7,66 +7,66 @@ const Navber3 = () => {
 
 <section className="py-8 px-4 dark:bg-gray-800" id="education">
   <br></br><br></br>
-  <h2 className="text-3xl font-bold text-white dark:text-white mb-4">
+  <h2 className="text-3xl font-bold text-green-200 dark:text-white mb-4">
     Education Qualifications:
   </h2>
   <ul className="space-y-4">
-    <li className="bg-gray-200 rounded-lg p-4 hover:bg-green-300 transition duration-300 transfrom flex">
+    <li className="bg-gray-200 rounded-lg p-4 bg-green-200 hover:bg-green-300 transition duration-300 transfrom flex">
       <div className="flex-grow">
         <h3 className="text-xl font-bold text-gray-900 dark:text-white">
           Master of Computer Applications - (Post Graduation)
         </h3>
         <div className="text-gray-700 dark:text-gray-400 text-1xl">
-          <b>ITM University, Gwalior, Madhya Pradhesh India. Pin code :- 474001</b><br />
-          (2017-2020)
+          <b>ITM University, Gwalior</b>, Madhya Pradhesh, India. Pin code :- 474001<br />
+         <b> (2017-2020)</b> - Full-time on Campus
         </div>
       </div>
       <div className="flex-shrink-0 ">
       <a href ="https://itmuniversity.ac.in/">  <img src="https://itmuniversity.ac.in/wp-content/uploads/2016/04/logo2rat.png" className="w-42 h-24 bg-white" alt="Master of Computer Applications" />
       </a></div>
     </li>
-    <li className="bg-gray-200 rounded-lg p-4 hover:bg-green-300 transition duration-300 flex">
+    <li className="bg-gray-200 rounded-lg p-4 bg-green-200 hover:bg-green-300 transition duration-300 flex">
       <div className="flex-grow">
         <h3 className="text-xl font-bold text-gray-900 dark:text-white">
           Bachelor of Computer Applications - (Graduation)
         </h3>
         <div className="text-gray-700 dark:text-gray-400 text-1xl">
-          <b>ITM University, Gwalior, Madhya Pradhesh India. Pin code :- 474001</b><br />
-          (2014-2017)
+          <b>ITM University, Gwalior</b>, Madhya Pradhesh, India. Pin code :- 474001<br />
+         <b> (2014-2017)</b> - Full-time on Campus
         </div>
       </div>
       <div className="flex-shrink-0">
       <a href ="https://itmuniversity.ac.in/">   <img src="https://itmuniversity.ac.in/wp-content/uploads/2016/04/logo2rat.png" className="w-42 h-24 bg-white" alt="Bachelor of Computer Applications" />
      </a> </div>
     </li>
-    <li className="bg-gray-200 rounded-lg p-4 hover:bg-green-300 transition duration-300 flex"> 
+    <li className="bg-green-200 rounded-lg p-4 hover:bg-green-300 transition duration-300 flex"> 
       <div className="flex-grow">
         <h3 className="text-xl font-bold text-gray-900 dark:text-white">
           Higher Secondary School Education - HSSLC (Science)
         </h3>
         <div className="text-gray-700 dark:text-gray-400 text-1xl">
-          School: <b>St. Peters Higher Secondary School - Shillong, Meghalaya, India. Pin code :- 793003</b>
+          School:- St. Peters Higher Secondary School - Shillong, Meghalaya, India. Pin code :- 793003
         </div>
         <div className="text-gray-700 dark:text-gray-400 text-1xl">
-          Meghalaya Board of School Education<br />
-          (2012-2014)
+          <b>Meghalaya Board of School Education<br />
+          (2012-2014)</b> - Full-time on Campus
         </div> 
       </div>
       <div className="flex-shrink-0">
       <a href ="http://www.mbose.in/">  <img src="https://play-lh.googleusercontent.com/HcoMSyg-jWM3Fq_3O7lgRQuSGfWSFt8lpFCLZLA00smzUuKtOQz5_0zHEigncf57p54" className="w-24 h-24 rounded-full" alt="Higher Secondary School Education" />
      </a> </div>
     </li>
-    <li className="bg-gray-200 rounded-lg p-4 hover:bg-green-300 transition duration-300 flex">
+    <li className="bg-green-200 rounded-lg p-4 hover:bg-green-300 transition duration-300 flex">
       <div className="flex-grow">
         <h3 className="text-xl font-bold text-gray-900 dark:text-white">
-          Secondary-School Education - SSLC (Class-10th)
+          Secondary-School Education - SSLC (Class-10th) - Full-time on Campus
         </h3>
         <div className="text-gray-700 dark:text-gray-400 text-1xl">
         
 
-           School :- <b>Shillong Boys Higher Secondary School - Shillong, Meghalaya, India. Pin code :- 793001</b>
+           School :- Shillong Boys Higher Secondary School - Shillong, Meghalaya, India. Pin code :- 793001
             </div>
-            <div className="text-gray-700 dark:text-gray-400 text-1xl">
+            <div className="text-gray-700 font-bold dark:text-gray-400 text-1xl">
               Meghalaya Board of School Education
             </div> </div><div className="flex-shrink-0">
             <a href ="http://www.mbose.in/">  <img src="https://play-lh.googleusercontent.com/HcoMSyg-jWM3Fq_3O7lgRQuSGfWSFt8lpFCLZLA00smzUuKtOQz5_0zHEigncf57p54" className="w-24 h-24 rounded-full" alt="Higher Secondary School Education" />
