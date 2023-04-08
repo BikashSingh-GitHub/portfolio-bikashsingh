@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/BikashSingh-GitHub/Portfolio-Website-Build-in-React-JS.git/static/css/main.7ebbcbc4.css",
-    "main.js": "/BikashSingh-GitHub/Portfolio-Website-Build-in-React-JS.git/static/js/main.57c15499.js",
-    "index.html": "/BikashSingh-GitHub/Portfolio-Website-Build-in-React-JS.git/index.html",
-    "main.7ebbcbc4.css.map": "/BikashSingh-GitHub/Portfolio-Website-Build-in-React-JS.git/static/css/main.7ebbcbc4.css.map",
-    "main.57c15499.js.map": "/BikashSingh-GitHub/Portfolio-Website-Build-in-React-JS.git/static/js/main.57c15499.js.map"
+    "main.css": "/BikashSingh-GitHub/portfolio-bikashsingh/static/css/main.89090916.css",
+    "main.js": "/BikashSingh-GitHub/portfolio-bikashsingh/static/js/main.5eb3fce7.js",
+    "index.html": "/BikashSingh-GitHub/portfolio-bikashsingh/index.html",
+    "main.89090916.css.map": "/BikashSingh-GitHub/portfolio-bikashsingh/static/css/main.89090916.css.map",
+    "main.5eb3fce7.js.map": "/BikashSingh-GitHub/portfolio-bikashsingh/static/js/main.5eb3fce7.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ebbcbc4.css",
-    "static/js/main.57c15499.js"
+    "static/css/main.89090916.css",
+    "static/js/main.5eb3fce7.js"
   ]
 }
